@@ -14,6 +14,7 @@
 
 - RDS
   for hosting PostgresSQl instance i use AWS RDS
+  port: 5432
 
   URL:- database-1.ccwvswna8ofw.us-east-1.rds.amazonaws.com
 
