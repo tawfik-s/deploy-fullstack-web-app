@@ -17,4 +17,4 @@
 
   URL:- database-1.ccwvswna8ofw.us-east-1.rds.amazonaws.com
 
-  ![architecture](https://github.com/tawfik-s/deploy-fullstack-web-app/docs/architecture_diagram.png)
+  ![architecture](./architecture_diagram.png)

@@ -68,4 +68,4 @@ filters:
 
 - Backend: Runs the build script, then exports all CircleCI setup environment variables to a.env file before running the archive script. The archive is then uploaded to  
    S3 using AWS CLI.
-  ![pipeline](https://github.com/tawfik-s/deploy-fullstack-web-app/docs/pipeline.png)
+  ![pipeline](./pipeline.png)
